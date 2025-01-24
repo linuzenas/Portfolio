@@ -35,10 +35,10 @@ Welcome to my portfolio! This project showcases my skills in **HTML**, **CSS**, 
 ![Technologies Selector](Images/skills.png)
 
 ### **Skills**
-![Technologies Selector](Images/social.png)
+![Technologies Selector](Images/Skills.png)
 
 ### **Contact Page**
-![Preview Section](Images/preview.png)
+![Preview Section](Images/ContactPage.png)
 
 # License
 
