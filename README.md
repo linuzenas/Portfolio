@@ -29,10 +29,10 @@ Welcome to my portfolio! This project showcases my skills in **HTML**, **CSS**, 
 ## 🖥️ Preview
 
 ### **Homepage**
-![Homepage Screenshot](Images/homepage.png)
+![Homepage Screenshot](Images/Homepage.png)
 
 ### **About**
-![Technologies Selector](Images/skills.png)
+![Technologies Selector](Images/About.png)
 
 ### **Skills**
 ![Technologies Selector](Images/Skills.png)
