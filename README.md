@@ -26,6 +26,20 @@ Welcome to my portfolio! This project showcases my skills in **HTML**, **CSS**, 
 3. **Open the project**:
     - Open the index.html file in your browser to view the portfolio.
 
+## 🖥️ Preview
+
+### **Homepage**
+![Homepage Screenshot](Images/homepage.png)
+
+### **About**
+![Technologies Selector](Images/skills.png)
+
+### **Skills**
+![Technologies Selector](Images/social.png)
+
+### **Contact Page**
+![Preview Section](Images/preview.png)
+
 # License
 
 Open the index.html file in your browser to view the portfolio.
